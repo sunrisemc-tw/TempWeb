@@ -33,7 +33,7 @@
         <div class="status-label">
           <span>系統狀態</span>
           <span class="status-label__rule" aria-hidden="true" />
-          <span>伺服器離家出走去維護了</span>
+          <span>等待轉交專業廠商維修 (07/12)</span>
         </div>
 
         <h1 id="maintenance-title" class="maintenance-title">
