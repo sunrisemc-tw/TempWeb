@@ -12,7 +12,7 @@
         <span class="brand__name">日出伺服器</span>
       </a>
 
-      <div class="system-state" role="status" aria-label="目前為維護模式">
+      <div class="system-state" role="status" aria-label="目前維護中">
         <span class="system-state__light" aria-hidden="true" />
         <span>維護模式</span>
       </div>
@@ -33,7 +33,7 @@
         <div class="status-label">
           <span>系統狀態</span>
           <span class="status-label__rule" aria-hidden="true" />
-          <span>硬體維護</span>
+          <span>伺服器離家出走去維護了</span>
         </div>
 
         <h1 id="maintenance-title" class="maintenance-title">
