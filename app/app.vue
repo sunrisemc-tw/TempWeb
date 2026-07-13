@@ -33,7 +33,7 @@
         <div class="status-label">
           <span>最新狀態</span>
           <span class="status-label__rule" aria-hidden="true" />
-          <span>系統測試 (07/13)</span>
+          <span>修復軟體 預估1~2小時開放(07/13)</span>
         </div>
 
         <h1 id="maintenance-title" class="maintenance-title">
