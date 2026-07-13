@@ -31,9 +31,9 @@
         </div>
 
         <div class="status-label">
-          <span>系統狀態</span>
+          <span>最新狀態</span>
           <span class="status-label__rule" aria-hidden="true" />
-          <span>等待轉交專業廠商維修 (07/12)</span>
+          <span>轉交專業店家維修 (07/13)</span>
         </div>
 
         <h1 id="maintenance-title" class="maintenance-title">
